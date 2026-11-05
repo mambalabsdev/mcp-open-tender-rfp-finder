@@ -1,6 +1,6 @@
 {
   "name": "@mambalabsdev/mcp-open-tender-rfp-finder",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MCP server for Open Tender and RFP Finder. Find open public tenders and RFPs by keyword, CPV code, and country from UK Contracts Finder, UK Find a Tender, EU TED, and CanadaBuys: one row per notice with buyer, deadline, value, codes, and link. Runs on Apify. Clay-ready output.",
   "type": "module",
   "bin": {
